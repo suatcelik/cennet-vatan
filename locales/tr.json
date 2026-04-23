@@ -1,0 +1,12 @@
+{
+    "common": {
+      "welcome": "Hoş geldin",
+      "continue": "Devam Et",
+      "search": "Ara",
+      "skip": "Geç"
+    },
+    "onboarding": {
+      "selectLanguage": "Dilini seç",
+      "languageDesc": "Uygulamayı hangi dilde kullanmak istersin?"
+    }
+  }

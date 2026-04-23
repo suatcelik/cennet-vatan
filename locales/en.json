@@ -1,0 +1,12 @@
+{
+    "common": {
+      "welcome": "Welcome",
+      "continue": "Continue",
+      "search": "Search",
+      "skip": "Skip"
+    },
+    "onboarding": {
+      "selectLanguage": "Select language",
+      "languageDesc": "Which language would you like to use the app in?"
+    }
+  }
